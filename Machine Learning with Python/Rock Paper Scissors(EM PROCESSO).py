@@ -108,88 +108,98 @@ def abbey(prev_opponent_play,
     return ideal_response[prediction]
 
 
-def player(prev_play, opponent_history=[], p =["R"], count=[0, 0, 0],
-           play_order=[{
-              "RR": 0,
-              "RP": 0,
-              "RS": 0,
-              "PR": 0,
-              "PP": 0,
-              "PS": 0,
-              "SR": 0,
-              "SP": 0,
-              "SS": 0,
-          }]):
-    
-    opponent_history.append(prev_play)
-    ideal_response = {'P': 'S', 'R': 'P', 'S': 'R'}
+def player(prev_play, opponent_history=[], p =["R"], count=[0, 0, 0],play_order=[{
+            "RR": 0,
+            "RP": 0,
+            "RS": 0,
+            "PR": 0,
+            "PP": 0,
+            "PS": 0,
+            "SR": 0,
+            "SP": 0,
+            "SS": 0,
+        }]):
+  
+  opponent_history.append(prev_play)
+  ideal_response = {'P': 'S', 'R': 'P', 'S': 'R'}
 
-    
-    if count[0] >= 100:
-      #print(count[1]/count[0], count[2])
-      if count[1]/count[0] < 0.5:
-        count[2] +=1
-        count[0] = 0
-        count[1] = 0
-        count[2] = 0 if count[2] > 3 else count[2]
-    
-    if (p[-1] == "P" and prev_play == "R") or (p[-1] == "R" and prev_play == "S") or (p[-1] == "S" and prev_play == "P"): 
-      count[1] += 1
+  
+  if count[0] >= 50:
+    #print(count[1]/count[0], count[2])
+    if count[1]/count[0] < 0.5:
+      count[2] +=1
+      count[0] = 0
+      count[1] = 0
+      count[2] = 0 if count[2] > 3 else count[2]
+      opponent_history.clear()
+      p.clear()
+      p.append("R")
       
-
+  
+  if (p[-1] == "P" and prev_play == "R") or (p[-1] == "R" and prev_play == "S") or (p[-1] == "S" and prev_play == "P"): 
+    count[1] += 1
     
-    #print(count[2])
 
+  
+  #print(count[2])
+
+  
+  if len(opponent_history) > 2:
     
-    if len(opponent_history) > 2:
+    if count[2] == 0:
+      #quincy
       guess = p[0]
-      if count[2] == 0:
-        
-        #quincy
-        if prev_play == "S":
-          p[0] = 'P' if opponent_history[-2] == 'P' else "R"
-          guess = p[0]
-          #print('quincy')
       
-          
-      elif count[2] == 1:
-        #mrugesh
-        guess = ideal_response[ideal_response[max(set(p), key=p.count)]]
-        p.append(guess)
-        #print('mrugesh')
-      
-      elif count[2] == 2:
-        #kris 
-        guess = ideal_response[ideal_response[p[-1]]]
-        p[-1] = guess
-        #print('kris')
-      
-      elif count[2] == 3:
-
-        last_two = "".join(opponent_history[-2:])
-        if len(last_two) == 2:
-            play_order[0][last_two] += 1
-
-        potential_plays = [
-            p[-1]  + "R",
-            p[-1]  + "P",
-            p[-1] + "S",
-        ]
-
-        sub_order = {
-            k: play_order[0][k]
-            for k in potential_plays if k in play_order[0]
-        }
-        prediction = max(sub_order, key=sub_order.get)[-1:]
-        #guess = ideal_response[prediction]
-
+      if prev_play == "S":
+        p[0] = 'P' if opponent_history[-2] == 'P' else "R"
+        guess = p[0]
+        #print('quincy')
+      elif len(set(opponent_history[-2:])):
+        p[0] = "S"
+        guess = p[0]
     
-    else:
-      guess = "R"
+        
+    elif count[2] == 1:
+      #mrugesh
+      guess = ideal_response[ideal_response[max(set(p), key=p.count)]]
+      p.append(guess)
+      #print('mrugesh')
+    
+    elif count[2] == 2:
+      #kris 
+      guess = ideal_response[ideal_response[p[-1]]]
+      p[-1] = guess
+      #print('kris')
+    
+    elif count[2] == 3:
 
-    count[0] += 1
+      last_two = "".join(p[-2:])
+      if len(last_two) == 2:
+          play_order[0][last_two] += 1
 
-    return guess
+      potential_plays = [
+          p[-1]  + "R",
+          p[-1]  + "P",
+          p[-1] + "S",
+      ]
+
+      sub_order = {
+          k: play_order[0][k]
+          for k in potential_plays if k in play_order[0]
+      }
+      prediction = max(sub_order, key=sub_order.get)[-1:]
+      
+      guess = ideal_response[ideal_response[prediction]]
+      p.append(guess)
+
+  
+  else:
+    
+    guess = "R"
+
+  count[0] += 1
+
+  return guess
 
 
 
