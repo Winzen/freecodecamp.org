@@ -212,6 +212,24 @@ def player(prev_play, opponent_history=[], p =["R"], count=[0, 0, 0],play_order=
 
 
 
+    return guess
+#PAra Lembrar da futura mudança
+def player(prev_play, opponent_history=[], plb = []):
+    opponent_history.append(prev_play)
+
+    guess = "R"
+    if len(opponent_history) > 2:
+        
+        #quincy
+        
+        if prev_play == "S":
+          plb[0] = 'P' if opponent_history[-2] == 'P' else "R"    
+        
+        elif len(set(opponent_history[-2:])):
+          plb[0] = "S"
+
+
+
 if __name__ == '__main__':
     play(player, quincy, 10)
     play(player, abbey, 10)
