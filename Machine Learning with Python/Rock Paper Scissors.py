@@ -1,5 +1,5 @@
 #LINK PROJECT: https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
-# LINK TEST RUN: https://replit.com/@LuizSinx/boilerplate-rock-paper-scissors-15#main.py
+#LINK TEST RUN: https://replit.com/@LuizSinx/boilerplate-rock-paper-scissors-15#main.py
 
 def play(player1, player2, num_games, verbose=False):
     p1_prev_play = ""
