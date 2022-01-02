@@ -1,6 +1,8 @@
 """
 APRENDENDO DQN. CODIGODS DE ESTUDO A BAIXO
 ATUALMENTE PROBLEMA NA BIBLIOTECA 'from keras.optimizers import Adam'
+Dia 01/01 estudo de documentação TensoFlow.
+Link: https://www.tensorflow.org/agents/tutorials/6_reinforce_tutorial?hl=pt-br#replay_buffer
 """
 
 
@@ -43,3 +45,8 @@ dqn.compile(Adam(lr=1e-3), metrics=['mae'])
 dqn.fit(env, nb_steps=5000, visualize=True, verbose=2)
 
 dqn.test(env, nb_episodes=5, visualize=True)
+
+
+#TENSORFLOW
+
+
