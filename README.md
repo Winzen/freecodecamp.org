@@ -1,5 +1,11 @@
 <p align="center"><img src="https://i.pcmag.com/imagery/reviews/01tPXClg2WjLamQzScplH3y-15.fit_lim.size_1050x591.v1627670281.png" width="1010" height="140"></p>
 
+# Sobre FreeCodeCamp
+
+:us: freeCodeCamp is a donor-supported tax-exempt 501(c)(3) nonprofit organization (United States Federal Tax Identification Number: 82-0779546)
+
+:us: Them mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
 <!--- 
  <p align="center"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1015433948458909826/unknown.png" width="1010" height="380"></p>
 -->
