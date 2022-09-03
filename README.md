@@ -1,6 +1,14 @@
 <p align="center"><img src="https://i.pcmag.com/imagery/reviews/01tPXClg2WjLamQzScplH3y-15.fit_lim.size_1050x591.v1627670281.png" width="1010" height="140"></p>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1015433948458909826/unknown.png" width="1010" height="380"></p>
 
+<!--- 
+ <p align="center"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1015433948458909826/unknown.png" width="1010" height="380"></p>
+-->
+# Introdução
+  
+  :brazil: Esse diretorio é responsavel por armazenar a resoluçoes das minhas atividades no FreeCodeCamp
+  
+  :us: That diretory have my resolutions from FreeCodeCamp classes 
+  
 # Aulas
   
   <p align="left"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1015432947928662036/unknown.png"></p>
