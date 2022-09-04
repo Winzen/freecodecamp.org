@@ -23,5 +23,7 @@
   <p align="left">
    <a href="https://github.com/Winzen/freecodecamp.org/tree/main/Data%20Analysis%20with%20Python%20Projects"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1015433358588772402/unknown.png"></a>
   </p>
-  <p align="left"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1015433643495272458/unknown.png"></p>
+  <p align="left">
+    <a href="https://github.com/Winzen/freecodecamp.org/tree/main/Machine%20Learning%20with%20Python"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1015433643495272458/unknown.png"></a>
+  </p>
   
