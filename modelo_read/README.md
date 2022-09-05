@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/465998423145971713/1016302073895194694/unknown.png" width="1000" height="250"/>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1016302073895194694/unknown.png" width="700" height="250"/></p>
 
 # Exercicios
 - [Exercicio 1](#exercicio-1)
