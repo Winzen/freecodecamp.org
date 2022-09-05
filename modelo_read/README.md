@@ -1,6 +1,6 @@
-<img src="https://cariufabc.files.wordpress.com/2018/05/logotipo-ufabc-extenso.png" width="1000" height="150"/>
+<img src="https://cdn.discordapp.com/attachments/465998423145971713/1016302073895194694/unknown.png" width="1000" height="250"/>
 
-# Lista 4 de Exercicios
+# Exercicios
 - [Exercicio 1](#exercicio-1)
 - [Exercicio 2](#exercicio-2)
 - [Exercicio 3](#exercicio-3)
