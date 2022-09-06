@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pcmag.com/imagery/reviews/01tPXClg2WjLamQzScplH3y-15.fit_lim.size_1050x591.v1627670281.png" width="800" height="155"></p>
+<p align="center"><a href="https://www.freecodecamp.org/"><img src="https://i.pcmag.com/imagery/reviews/01tPXClg2WjLamQzScplH3y-15.fit_lim.size_1050x591.v1627670281.png" width="800" height="155"></a></p>
 
 # Sobre FreeCodeCamp
 
