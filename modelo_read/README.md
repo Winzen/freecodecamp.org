@@ -23,7 +23,7 @@
   
    **Resultado:**
    
-   <a href="https://github.com/Winzen/Projetos-Aleatorios/blob/main/Li%C3%A7oes%20Faculdade/Lista_4/exercicio_2.py" target="_blank" ><img src="https://cdn-icons-png.flaticon.com/512/460/460694.png" alt="drawing" width="70" height="50"/></a>
+   <a href="https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/add_time.py" target="_blank" ><img src="https://cdn-icons-png.flaticon.com/512/460/460694.png" alt="drawing" width="70" height="50"/></a>
   
    ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1010006816958193754/unknown.png)
  
