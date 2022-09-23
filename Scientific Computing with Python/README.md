@@ -18,9 +18,9 @@
    
    **Resultado:**
    
-   <a href="https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/arithmetic_arranger.py" target="_blank" ><img src="https://cdn-icons-png.flaticon.com/512/460/460694.png" alt="drawing" width="70" height="50"/></a>
-   
-  ![Run teste](https://replit.com/@LuizSinx/boilerplate-arithmetic-formatter-2#main.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/arithmetic_arranger.py)
+   :left_right_arrow:
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-arithmetic-formatter-2#main.py)
    
    ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1022780035796574208/unknown.png)
  
