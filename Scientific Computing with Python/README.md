@@ -9,8 +9,8 @@
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
 
  - ## Exercicio 1
-  ![Exercicio_1](https://cdn.discordapp.com/attachments/465998423145971713/1008564261229953034/unknown.png)
-  ![Exercicio_1_parte_2](https://cdn.discordapp.com/attachments/465998423145971713/1008564532500770886/unknown.png)
+  ![Exercicio_1](https://cdn.discordapp.com/attachments/465998423145971713/1022700270976774165/unknown.png)
+  ![Exercicio_1_parte_2](https://cdn.discordapp.com/attachments/465998423145971713/1022700370188832878/unknown.png)
    
    **Resultado:**
    
