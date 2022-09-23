@@ -16,7 +16,7 @@
    
    <a href="https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/arithmetic_arranger.py" target="_blank" ><img src="https://cdn-icons-png.flaticon.com/512/460/460694.png" alt="drawing" width="70" height="50"/></a>
   
-   ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1010004661144662066/unknown.png)
+   ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1022780035796574208/unknown.png)
  
  - ## Exercicio 2
   ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1008585660602527754/unknown.png)
