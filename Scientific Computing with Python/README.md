@@ -1,5 +1,9 @@
 <p align="center"><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1016302073895194694/unknown.png" width="700" height="250"/></a></p>
 
+# Certificado
+ 
+ <p align="center"><a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/scientific-computing-with-python-v7" target="_blank" ><img src="https://cdn.discordapp.com/attachments/465998423145971713/1022781271568560198/unknown.png" alt="drawing" width="800" height="500"/></a></p>
+ 
 # Exercicios
 - [Exercicio 1](#exercicio-1)
 - [Exercicio 2](#exercicio-2)
