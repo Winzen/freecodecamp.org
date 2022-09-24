@@ -26,7 +26,8 @@
    ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1022780035796574208/unknown.png)
  
  - ## Exercicio 2
-  ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1008585660602527754/unknown.png)
+  ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1023096402139684874/unknown.png)
+  ![Exercicio_2_2](https://cdn.discordapp.com/attachments/465998423145971713/1023096419323744256/unknown.png)
   
    **Resultado:**
    
