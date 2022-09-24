@@ -6,7 +6,7 @@
  
 # Exercicios
 - [Arithmetic Formatter](#arithmetic-formatter-memoquestion-link)
-- [Time Calculator](#timer-calculator-memoquestion-link)
+- [Time Calculator](#time-calculator-memoquestion-link)
 - [Exercicio 3](#exercicio-3)
 - [Exercicio 4](#exercicio-4)
 
@@ -31,9 +31,11 @@
   
    **Resultado:**
    
-   <a href="https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/add_time.py" target="_blank" ><img src="https://cdn-icons-png.flaticon.com/512/460/460694.png" alt="drawing" width="70" height="50"/></a>
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/arithmetic_arranger.py)
+   :left_right_arrow:
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-time-calculator-2#main.py)
   
-   ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1010006816958193754/unknown.png)
+   ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1023098192822276167/unknown.png)
  
  - ## Exercicio 3
   ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1008586828716183562/unknown.png)
