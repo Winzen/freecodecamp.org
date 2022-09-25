@@ -45,11 +45,11 @@
   
    **Resultado:**
    
-  <a href="https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Budget_App.py" target="_blank" ><img src="https://cdn-icons-png.flaticon.com/512/460/460694.png" alt="drawing" width="70" height="50"/></a>
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Budget_App.py)
+   :left_right_arrow:
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-time-calculator-2#main.py)
    
-   ![Resultado_3](https://cdn.discordapp.com/attachments/465998423145971713/1010376333894889512/unknown.png)
-   
-   ![Resultado_3_2](https://cdn.discordapp.com/attachments/465998423145971713/1010376475070967850/unknown.png)
+   ![Resultado_3](https://cdn.discordapp.com/attachments/465998423145971713/1023438803236573295/unknown.png)
    
  - ## Exercicio 4
   ![Exercicio_4](https://cdn.discordapp.com/attachments/465998423145971713/1008587816747421706/unknown.png)
