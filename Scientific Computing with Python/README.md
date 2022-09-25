@@ -7,7 +7,7 @@
 # Exercicios
 - [Arithmetic Formatter](#arithmetic-formatter-memoquestion-link)
 - [Time Calculator](#time-calculator-memoquestion-link)
-- [Exercicio 3](#exercicio-3)
+- [Budget App](#budget-app-memoquestion-link)
 - [Exercicio 4](#exercicio-4)
 
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
