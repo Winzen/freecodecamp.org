@@ -47,7 +47,7 @@
    
    [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Budget_App.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-time-calculator-2#main.py)
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-budget-app-4#budget.py)
    
    ![Resultado_3](https://cdn.discordapp.com/attachments/465998423145971713/1023438803236573295/unknown.png)
    
