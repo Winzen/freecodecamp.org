@@ -37,7 +37,7 @@
   
    ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1023098192822276167/unknown.png)
  
- - ## Exercicio 3
+ - ## Budget App [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
   ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1008586828716183562/unknown.png)
   ![Exercicio_3_2](https://cdn.discordapp.com/attachments/465998423145971713/1008586884588515358/unknown.png)
   ![Exercicio_3_3](https://cdn.discordapp.com/attachments/465998423145971713/1008586972710850670/unknown.png)
