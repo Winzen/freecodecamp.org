@@ -64,7 +64,7 @@
    :left_right_arrow:
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-polygon-area-calculator-1#shape_calculator.py)
   
-   ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1010417853817696307/unknown.png)
+   ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1023890449825533962/unknown.png)
    
    - ## Exercicio 5
   ![Exercicio_5](https://cdn.discordapp.com/attachments/465998423145971713/1008587816747421706/unknown.png)
