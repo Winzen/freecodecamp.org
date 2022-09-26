@@ -51,13 +51,16 @@
    
    ![Resultado_3](https://cdn.discordapp.com/attachments/465998423145971713/1023438803236573295/unknown.png)
    
- - ## Exercicio 4
+ - ## Exercicio 4 [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
+ 
   ![Exercicio_4](https://cdn.discordapp.com/attachments/465998423145971713/1008587816747421706/unknown.png)
   ![Exercicio_4](https://cdn.discordapp.com/attachments/465998423145971713/1008587879305457664/unknown.png)
   
    **Resultado:**
    
-   <a href="https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Polygon_Area_Calculator.py" target="_blank" ><img src="https://cdn-icons-png.flaticon.com/512/460/460694.png" alt="drawing" width="70" height="50"/></a>
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Polygon_Area_Calculator.py)
+   :left_right_arrow:
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-budget-app-4#budget.py)
   
    ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1010417853817696307/unknown.png)
    
