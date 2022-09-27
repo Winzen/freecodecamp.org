@@ -77,4 +77,4 @@
    :left_right_arrow:
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-probability-calculator-3#prob_calculator.py)
   
-   ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1010417853817696307/unknown.png)
+   ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1024429795771170857/unknown.png)
