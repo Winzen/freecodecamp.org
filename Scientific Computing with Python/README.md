@@ -9,7 +9,7 @@
 - [Time Calculator](#time-calculator-memoquestion-link)
 - [Budget App](#budget-app-memoquestion-link)
 - [Polygon Area Calculator](#polygon-area-calculator-memoquestion-link)
-
+- [Probability Calculator](#polygon-area-calculator-memoquestion-link)
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
 
  - ## Arithmetic Formatter [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
@@ -66,7 +66,7 @@
   
    ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1023890449825533962/unknown.png)
    
-   - ## Exercicio 5
+   - ## Probability Calculator  [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
   ![Exercicio_5](https://cdn.discordapp.com/attachments/465998423145971713/1008587816747421706/unknown.png)
   ![Exercicio_5](https://cdn.discordapp.com/attachments/465998423145971713/1008587879305457664/unknown.png)
   
