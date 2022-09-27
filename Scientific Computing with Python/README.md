@@ -9,7 +9,7 @@
 - [Time Calculator](#time-calculator-memoquestion-link)
 - [Budget App](#budget-app-memoquestion-link)
 - [Polygon Area Calculator](#polygon-area-calculator-memoquestion-link)
-- [Probability Calculator](#polygon-area-calculator-memoquestion-link)
+- [Probability Calculator](#probability-calculator--memoquestion-link)
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
 
  - ## Arithmetic Formatter [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
