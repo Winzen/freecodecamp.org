@@ -67,8 +67,9 @@
    ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1023890449825533962/unknown.png)
    
    - ## Probability Calculator  [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
-  ![Exercicio_5](https://cdn.discordapp.com/attachments/465998423145971713/1008587816747421706/unknown.png)
-  ![Exercicio_5](https://cdn.discordapp.com/attachments/465998423145971713/1008587879305457664/unknown.png)
+  ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1024429148615221258/unknown.png)
+  ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1024429423182745760/unknown.png)
+  ![Exercicio_5_3](https://cdn.discordapp.com/attachments/465998423145971713/1024429525792215170/unknown.png)
   
    **Resultado:**
    
