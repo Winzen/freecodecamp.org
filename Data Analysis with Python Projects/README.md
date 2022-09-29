@@ -5,7 +5,7 @@
  <p align="center"><a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/data-analysis-with-python-v7" target="_blank" ><img src="https://cdn.discordapp.com/attachments/465998423145971713/1024632534019088406/unknown.png" alt="drawing" width="800" height="500"/></a></p>
  
 # Exercicios
-- [Mean-Variance-Standard Deviation Calculator](#arithmetic-formatter-memoquestion-link)
+- [Mean-Variance-Standard Deviation Calculator](#mean-variance-standard-deviation-calculator-memoquestion-link)
 - [Time Calculator](#time-calculator-memoquestion-link)
 - [Budget App](#budget-app-memoquestion-link)
 - [Polygon Area Calculator](#polygon-area-calculator-memoquestion-link)
@@ -23,7 +23,7 @@
    :left_right_arrow:
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-mean-variance-standard-deviation-calculator-2#mean_var_std.py)
    
-   ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1022780035796574208/unknown.png)
+   ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1025188136394956810/unknown.png)
  
  - ## Time Calculator [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
   ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1023096402139684874/unknown.png)
