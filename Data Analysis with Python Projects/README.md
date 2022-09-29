@@ -14,8 +14,8 @@
 
  - ## Mean-Variance-Standard Deviation Calculator [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)
 
-  ![Exercicio_1](https://cdn.discordapp.com/attachments/465998423145971713/1022700270976774165/unknown.png)
-  ![Exercicio_1_parte_2](https://cdn.discordapp.com/attachments/465998423145971713/1022700370188832878/unknown.png)
+  ![Exercicio_1](https://cdn.discordapp.com/attachments/465998423145971713/1025183784569684019/unknown.png)
+  ![Exercicio_1_parte_2](https://cdn.discordapp.com/attachments/465998423145971713/1025183894020051035/unknown.png)
    
    **Resultado:**
    
