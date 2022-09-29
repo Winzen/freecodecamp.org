@@ -19,9 +19,9 @@
    
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/arithmetic_arranger.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Data%20Analysis%20with%20Python%20Projects/Mean-Variance-Standard.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-arithmetic-formatter-2#main.py)
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-mean-variance-standard-deviation-calculator-2#mean_var_std.py)
    
    ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1022780035796574208/unknown.png)
  
