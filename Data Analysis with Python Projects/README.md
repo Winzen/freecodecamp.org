@@ -26,16 +26,16 @@
    ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1025188136394956810/unknown.png)
  
  - ## Demographic Data Analyzer [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
-  ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1023096402139684874/unknown.png)
-  ![Exercicio_2_2](https://cdn.discordapp.com/attachments/465998423145971713/1023096419323744256/unknown.png)
+  ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1025474253581189190/unknown.png)
+  ![Exercicio_2_2](https://cdn.discordapp.com/attachments/465998423145971713/1025474311420657816/unknown.png)
   
    **Resultado:**
    
    [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Data%20Analysis%20with%20Python%20Projects/Demographic%20Data%20Analyzer.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-time-calculator-2#main.py)
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-demographic-data-analyzer-1#demographic_data_analyzer.py)
   
-   ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1023098192822276167/unknown.png)
+   ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1025474900187684905/unknown.png)
  
  - ## Budget App [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
   ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1023437037094850660/unknown.png)
