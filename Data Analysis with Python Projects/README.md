@@ -6,7 +6,7 @@
  
 # Exercicios
 - [Mean-Variance-Standard Deviation Calculator](#mean-variance-standard-deviation-calculator-memoquestion-link)
-- [Demographic Data Analyzer](#time-calculator-memoquestion-link)
+- [Demographic Data Analyzer](#demographic-data-analyzer-memoquestion-link)
 - [Budget App](#budget-app-memoquestion-link)
 - [Polygon Area Calculator](#polygon-area-calculator-memoquestion-link)
 - [Probability Calculator](#probability-calculator--memoquestion-link)
@@ -31,7 +31,7 @@
   
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/add_time.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Data%20Analysis%20with%20Python%20Projects/Demographic%20Data%20Analyzer.py)
    :left_right_arrow:
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-time-calculator-2#main.py)
   
