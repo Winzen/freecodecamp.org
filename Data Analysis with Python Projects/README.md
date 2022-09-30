@@ -6,7 +6,7 @@
  
 # Exercicios
 - [Mean-Variance-Standard Deviation Calculator](#mean-variance-standard-deviation-calculator-memoquestion-link)
-- [Time Calculator](#time-calculator-memoquestion-link)
+- [Demographic Data Analyzer](#time-calculator-memoquestion-link)
 - [Budget App](#budget-app-memoquestion-link)
 - [Polygon Area Calculator](#polygon-area-calculator-memoquestion-link)
 - [Probability Calculator](#probability-calculator--memoquestion-link)
@@ -25,7 +25,7 @@
    
    ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1025188136394956810/unknown.png)
  
- - ## Time Calculator [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
+ - ## Demographic Data Analyzer [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
   ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1023096402139684874/unknown.png)
   ![Exercicio_2_2](https://cdn.discordapp.com/attachments/465998423145971713/1023096419323744256/unknown.png)
   
