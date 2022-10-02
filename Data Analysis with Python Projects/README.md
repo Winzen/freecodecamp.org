@@ -61,7 +61,7 @@
    :left_right_arrow:
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-page-view-time-series-visualizer-1#main.py)
   
-   ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1023890449825533962/unknown.png)
+   ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1026215536520073316/unknown.png)
    
    - ## Probability Calculator  [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
   ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1024429148615221258/unknown.png)
