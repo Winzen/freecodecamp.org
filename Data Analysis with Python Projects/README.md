@@ -7,7 +7,7 @@
 # Exercicios
 - [Mean-Variance-Standard Deviation Calculator](#mean-variance-standard-deviation-calculator-memoquestion-link)
 - [Demographic Data Analyzer](#demographic-data-analyzer-memoquestion-link)
-- [Budget App](#budget-app-memoquestion-link)
+- [Medical Data Visualizer](#budget-app-memoquestion-link)
 - [Polygon Area Calculator](#polygon-area-calculator-memoquestion-link)
 - [Probability Calculator](#probability-calculator--memoquestion-link)
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
@@ -37,7 +37,7 @@
   
    ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1025474900187684905/unknown.png)
  
- - ## Budget App [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
+ - ## Medical Data Visualizer [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
   ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1023437037094850660/unknown.png)
   ![Exercicio_3_2](https://cdn.discordapp.com/attachments/465998423145971713/1023438019803488348/unknown.png)
   ![Exercicio_3_3](https://cdn.discordapp.com/attachments/465998423145971713/1023438427850543114/unknown.png)
@@ -45,7 +45,7 @@
   
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Budget_App.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Data%20Analysis%20with%20Python%20Projects/Medical%20Data%20Visualizer.py)
    :left_right_arrow:
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-budget-app-4#budget.py)
    
