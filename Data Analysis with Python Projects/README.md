@@ -49,7 +49,7 @@
    :left_right_arrow:
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-budget-app-4#budget.py)
    
-   ![Resultado_3](https://cdn.discordapp.com/attachments/465998423145971713/1023438803236573295/unknown.png)
+   ![Resultado_3](https://replit.com/@LuizSinx/boilerplate-medical-data-visualizer-2#medical_data_visualizer.py)
    
  - ## Polygon Area Calculator [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
  
