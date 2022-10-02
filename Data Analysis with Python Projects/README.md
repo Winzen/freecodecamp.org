@@ -47,9 +47,9 @@
    
    [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Data%20Analysis%20with%20Python%20Projects/Medical%20Data%20Visualizer.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-budget-app-4#budget.py)
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-medical-data-visualizer-2#medical_data_visualizer.py)
    
-   ![Resultado_3](https://replit.com/@LuizSinx/boilerplate-medical-data-visualizer-2#medical_data_visualizer.py)
+   ![Resultado_3](https://cdn.discordapp.com/attachments/465998423145971713/1025962054064021544/unknown.png)
    
  - ## Polygon Area Calculator [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
  
