@@ -53,10 +53,7 @@
    
  - ## Page View Time Series Visualizer [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer)
  
-  ![Exercicio_4_1](https://cdn.discordapp.com/attachments/465998423145971713/1023888944779251752/unknown.png)
-  ![Exercicio_4_2](https://cdn.discordapp.com/attachments/465998423145971713/1023889266922749972/unknown.png)
-  
-  ![Exercicio_4_3](https://cdn.discordapp.com/attachments/465998423145971713/1023889369754521670/unknown.png)
+  ![Exercicio_4_1](https://cdn.discordapp.com/attachments/465998423145971713/1026213640371720222/unknown.png)
   
    **Resultado:**
    
