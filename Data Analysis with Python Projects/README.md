@@ -38,9 +38,9 @@
    ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1025474900187684905/unknown.png)
  
  - ## Medical Data Visualizer [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
-  ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1023437037094850660/unknown.png)
-  ![Exercicio_3_2](https://cdn.discordapp.com/attachments/465998423145971713/1023438019803488348/unknown.png)
-  ![Exercicio_3_3](https://cdn.discordapp.com/attachments/465998423145971713/1023438427850543114/unknown.png)
+  ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1025960736188538900/unknown.png)
+  ![Exercicio_3_2](https://cdn.discordapp.com/attachments/465998423145971713/1025960843835363388/unknown.png)
+  ![Exercicio_3_3](https://cdn.discordapp.com/attachments/465998423145971713/1025961009531322378/unknown.png)
   
   
    **Resultado:**
