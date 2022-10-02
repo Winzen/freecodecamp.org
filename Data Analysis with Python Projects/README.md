@@ -57,9 +57,9 @@
   
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Polygon_Area_Calculator.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Data%20Analysis%20with%20Python%20Projects/Page%20View%20Time%20Series%20Visualizer.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-polygon-area-calculator-1#shape_calculator.py)
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-page-view-time-series-visualizer-1#main.py)
   
    ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1023890449825533962/unknown.png)
    
