@@ -63,11 +63,9 @@
   
    ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1026215536520073316/unknown.png)
    
-   - ## Sea Level Predictor  [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
-  ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1024429148615221258/unknown.png)
-  ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1024429423182745760/unknown.png)
-  ![Exercicio_5_3](https://cdn.discordapp.com/attachments/465998423145971713/1024429525792215170/unknown.png)
-  
+   - ## Sea Level Predictor  [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor)
+  ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1026658721822158958/unknown.png)
+ 
    **Resultado:**
    
    [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Probability_Calculator.py)
