@@ -68,8 +68,8 @@
  
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Probability_Calculator.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Data%20Analysis%20with%20Python%20Projects/Sea%20Level%20Predictor.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-probability-calculator-3#prob_calculator.py)
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-sea-level-predictor#main.py)
   
    ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1024429795771170857/unknown.png)
