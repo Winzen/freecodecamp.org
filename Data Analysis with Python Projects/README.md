@@ -9,7 +9,7 @@
 - [Demographic Data Analyzer](#demographic-data-analyzer-memoquestion-link)
 - [Medical Data Visualizer](#medical-data-visualizer-memoquestion-link)
 - [Page View Time Series Visualizer](#page-view-time-series-visualizer-memoquestion-link)
-- [Sea Level Predictor](#probability-calculator--memoquestion-link)
+- [Sea Level Predictor](#sea-level-predictor--memoquestion-link)
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
 
  - ## Mean-Variance-Standard Deviation Calculator [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)
