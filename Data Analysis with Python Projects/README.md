@@ -72,4 +72,4 @@
    :left_right_arrow:
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-sea-level-predictor#main.py)
   
-   ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1024429795771170857/unknown.png)
+   ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1026659725829492780/unknown.png)
