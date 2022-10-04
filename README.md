@@ -13,7 +13,7 @@
   
   :brazil: Esse diretorio é responsavel por armazenar a resoluçoes das minhas atividades no FreeCodeCamp
   
-  :us: That diretory have my resolutions from FreeCodeCamp classes 
+  :us: That directory has my resolutions from FreeCodeCamp lessons
   
 # Aulas
   
