@@ -9,7 +9,7 @@
 - [Demographic Data Analyzer](#demographic-data-analyzer-memoquestion-link)
 - [Medical Data Visualizer](#medical-data-visualizer-memoquestion-link)
 - [Page View Time Series Visualizer](#page-view-time-series-visualizer-memoquestion-link)
-- [Probability Calculator](#probability-calculator--memoquestion-link)
+- [Sea Level Predictor](#probability-calculator--memoquestion-link)
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
 
  - ## Mean-Variance-Standard Deviation Calculator [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)
@@ -63,7 +63,7 @@
   
    ![Resultado_4](https://cdn.discordapp.com/attachments/465998423145971713/1026215536520073316/unknown.png)
    
-   - ## Probability Calculator  [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
+   - ## Sea Level Predictor  [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
   ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1024429148615221258/unknown.png)
   ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1024429423182745760/unknown.png)
   ![Exercicio_5_3](https://cdn.discordapp.com/attachments/465998423145971713/1024429525792215170/unknown.png)
