@@ -2,7 +2,7 @@
 
 # Certificado
  
- <p align="center"><a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/data-analysis-with-python-v7" target="_blank" ><img src="https://cdn.discordapp.com/attachments/465998423145971713/1024632534019088406/unknown.png" alt="drawing" width="800" height="500"/></a></p>
+ <p align="center"><a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/data-analysis-with-python-v7" target="_blank" ><img src="https://w7.pngwing.com/pngs/400/751/png-transparent-automation-computer-icons-workflow-graphics-orchestration-skills-icon-business-business-process-auto-part.png" alt="drawing" width="800" height="500"/></a></p>
  
 # Exercicios
 - [Mean-Variance-Standard Deviation Calculator](#mean-variance-standard-deviation-calculator-memoquestion-link)
