@@ -21,7 +21,7 @@
    
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Data%20Analysis%20with%20Python%20Projects/Mean-Variance-Standard.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Machine%20Learning%20with%20Python/Rock%20Paper%20Scissors.py)
    :left_right_arrow:
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-mean-variance-standard-deviation-calculator-2#mean_var_std.py)
    
