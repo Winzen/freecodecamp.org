@@ -14,8 +14,10 @@
 
  - ## Rock Paper Scissors [:memo:Question Link](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors)
 
-  ![Exercicio_1](https://cdn.discordapp.com/attachments/465998423145971713/1025183784569684019/unknown.png)
-  ![Exercicio_1_parte_2](https://cdn.discordapp.com/attachments/465998423145971713/1025183894020051035/unknown.png)
+  ![Exercicio_1](https://cdn.discordapp.com/attachments/465998423145971713/1027386023564550324/unknown.png)
+  ![Exercicio_1_parte_2](https://cdn.discordapp.com/attachments/465998423145971713/1027386140208152586/unknown.png)
+  ![Exercicio_1_parte_3](https://cdn.discordapp.com/attachments/465998423145971713/1027386197028388934/unknown.png)
+
    
    **Resultado:**
    
