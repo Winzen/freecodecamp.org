@@ -23,9 +23,9 @@
    
    [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Machine%20Learning%20with%20Python/Rock%20Paper%20Scissors.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-mean-variance-standard-deviation-calculator-2#mean_var_std.py)
+   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-rock-paper-scissors-15#main.py)
    
-   ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1025188136394956810/unknown.png)
+   ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1027387098635972628/unknown.png)
  
  - ## Demographic Data Analyzer [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
   ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1025474253581189190/unknown.png)
