@@ -12,7 +12,7 @@
 - [Sea Level Predictor](#sea-level-predictor--memoquestion-link)
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
 
- - ## Mean-Variance-Standard Deviation Calculator [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)
+ - ## Rock Paper Scissors [:memo:Question Link](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors)
 
   ![Exercicio_1](https://cdn.discordapp.com/attachments/465998423145971713/1025183784569684019/unknown.png)
   ![Exercicio_1_parte_2](https://cdn.discordapp.com/attachments/465998423145971713/1025183894020051035/unknown.png)
