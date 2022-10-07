@@ -30,6 +30,10 @@
  - ## Cat and Dog Image Classifier [:memo:Question Link](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier)
   ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1027741666649583626/unknown.png)
   ![Exercicio_2_2](https://cdn.discordapp.com/attachments/465998423145971713/1027741823231332422/unknown.png)
+  ![Exercicio_2_3](https://cdn.discordapp.com/attachments/465998423145971713/1027742079046123610/unknown.png)
+  ![Exercicio_2_4](https://cdn.discordapp.com/attachments/465998423145971713/1027742216770306078/unknown.png)
+  ![Exercicio_2_5](https://cdn.discordapp.com/attachments/465998423145971713/1027742279559041114/unknown.png)
+
   
    **Resultado:**
    
