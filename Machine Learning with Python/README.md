@@ -6,7 +6,7 @@
  
 # Exercicios
 - [Rock Paper Scissors](#rock-paper-scissors-memoquestion-link)
-- [Demographic Data Analyzer](#demographic-data-analyzer-memoquestion-link)
+- [Cat and Dog Image Classifier](#cat-and-dog-image-classifier-memoquestion-link)
 - [Medical Data Visualizer](#medical-data-visualizer-memoquestion-link)
 - [Page View Time Series Visualizer](#page-view-time-series-visualizer-memoquestion-link)
 - [Sea Level Predictor](#sea-level-predictor--memoquestion-link)
