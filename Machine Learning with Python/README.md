@@ -42,7 +42,7 @@
    [:crossed_swords:Run teste](https://colab.research.google.com/drive/1AwhJf-iq7ySayTbk9Tu1XNIDs_T1mmYw?usp=sharing)
   
    ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1027752784449245214/unknown.png)
- 
+ <!--
  - ## Medical Data Visualizer [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
   ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1025960736188538900/unknown.png)
   ![Exercicio_3_2](https://cdn.discordapp.com/attachments/465998423145971713/1025960843835363388/unknown.png)
@@ -79,3 +79,4 @@
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-sea-level-predictor#main.py)
   
    ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1026659725829492780/unknown.png)
+   -->
