@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1016302073895194694/unknown.png" width="700" height="250"/></a></p>
+<p align="center"><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1028133295130685451/unknown.png" width="700" height="250"/></a></p>
 <!--
 # Certificado
  
