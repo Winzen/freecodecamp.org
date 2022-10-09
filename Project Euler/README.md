@@ -3,7 +3,7 @@
 
 # Certificado
  
- <p align="left"><a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/scientific-computing-with-python-v7" target="_blank" ><img src="https://cdn.discordapp.com/attachments/465998423145971713/1028133348234760302/unknown.png" alt="drawing" width="300" height="200"/></a></p>
+ <p align="left"><a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/scientific-computing-with-python-v7" target="_blank" ><img src="https://cdn.discordapp.com/attachments/465998423145971713/1028133348234760302/unknown.png" alt="drawing" width="500" height="300"/></a></p>
 <!--
 # Exercicios
 - [Arithmetic Formatter](#arithmetic-formatter-memoquestion-link)
