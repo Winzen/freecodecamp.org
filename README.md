@@ -27,6 +27,6 @@
     <a href="https://github.com/Winzen/freecodecamp.org/tree/main/Machine%20Learning%20with%20Python"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1015433643495272458/unknown.png"></a>
   </p>
   <p align="left">
-    <a href="https://github.com/Winzen/freecodecamp.org/tree/main/Machine%20Learning%20with%20Python"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1028500881513128006/unknown.png"></a>
+    <a href="https://github.com/Winzen/freecodecamp.org/tree/main/Project%20Euler"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1028500881513128006/unknown.png"></a>
   </p>
   
