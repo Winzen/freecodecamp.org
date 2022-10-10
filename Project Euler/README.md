@@ -4,16 +4,12 @@
 # Certificado
  
  <p align="left"><a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/scientific-computing-with-python-v7" target="_blank" ><img src="https://cdn.discordapp.com/attachments/465998423145971713/1028133348234760302/unknown.png" alt="drawing" width="600" height="300"/></a></p>
-<!--
+
 # Exercicios
 - [Arithmetic Formatter](#arithmetic-formatter-memoquestion-link)
-- [Time Calculator](#time-calculator-memoquestion-link)
-- [Budget App](#budget-app-memoquestion-link)
-- [Polygon Area Calculator](#polygon-area-calculator-memoquestion-link)
-- [Probability Calculator](#probability-calculator--memoquestion-link)
-<img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
 
- - ## Arithmetic Formatter [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
+
+ - ## Problem 1: Multiples of 3 and 5 [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
 
   ![Exercicio_1](https://cdn.discordapp.com/attachments/465998423145971713/1022700270976774165/unknown.png)
   ![Exercicio_1_parte_2](https://cdn.discordapp.com/attachments/465998423145971713/1022700370188832878/unknown.png)
@@ -25,6 +21,14 @@
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-arithmetic-formatter-2#main.py)
    
    ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1022780035796574208/unknown.png)
+<!--
+
+- [Time Calculator](#time-calculator-memoquestion-link)
+- [Budget App](#budget-app-memoquestion-link)
+- [Polygon Area Calculator](#polygon-area-calculator-memoquestion-link)
+- [Probability Calculator](#probability-calculator--memoquestion-link)
+<img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
+
  
  - ## Time Calculator [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
   ![Exercicio_2](https://cdn.discordapp.com/attachments/465998423145971713/1023096402139684874/unknown.png)
