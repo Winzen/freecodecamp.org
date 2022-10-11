@@ -12,6 +12,7 @@
  - ## Problem 1: Multiples of 3 and 5 [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
 
   ![Exercicio_1](https://cdn.discordapp.com/attachments/465998423145971713/1028839556319023174/unknown.png)
+  ![Exercicio_1_1](https://cdn.discordapp.com/attachments/465998423145971713/1029219363833778227/unknown.png)
    
    **Resultado:**
    
