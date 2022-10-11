@@ -22,7 +22,7 @@
    [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-arithmetic-formatter-2#main.py)
    -->
    
-   ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1022780035796574208/unknown.png)
+   ![Resultado_1](https://cdn.discordapp.com/attachments/465998423145971713/1029220721144123482/unknown.png)
 <!--
 
 - [Time Calculator](#time-calculator-memoquestion-link)
