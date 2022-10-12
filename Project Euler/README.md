@@ -30,9 +30,9 @@
   
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/add_time.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Project%20Euler/Problem%202%20Even%20Fibonacci%20Numbers.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-time-calculator-2#main.py)
+   [:crossed_swords:Run teste](https://colab.research.google.com/drive/1F0wlfDuq2CRkA9UcW6bQicm_wjiYsugl#scrollTo=XEOF5GsY_EiB)
   
    ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1023098192822276167/unknown.png)
 <!--
