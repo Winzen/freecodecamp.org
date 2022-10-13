@@ -38,9 +38,9 @@
    ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1029579397042278410/unknown.png)
   
    - ## Problem 3: Largest prime factor [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
-  ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1023437037094850660/unknown.png)
-  ![Exercicio_3_2](https://cdn.discordapp.com/attachments/465998423145971713/1023438019803488348/unknown.png)
-  ![Exercicio_3_3](https://cdn.discordapp.com/attachments/465998423145971713/1023438427850543114/unknown.png)
+  ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1029940987423887360/unknown.png)
+  ![Exercicio_3_2](https://cdn.discordapp.com/attachments/465998423145971713/1029941062023786568/unknown.png)
+  
   
   
    **Resultado:**
