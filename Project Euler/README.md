@@ -45,7 +45,7 @@
   
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Budget_App.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Project%20Euler/Problem%203%20Largest%20prime%20factor.py)
    :left_right_arrow:
    [:crossed_swords:Run teste](https://colab.research.google.com/drive/1F0wlfDuq2CRkA9UcW6bQicm_wjiYsugl#scrollTo=aXWMft9rLSx2)
    
