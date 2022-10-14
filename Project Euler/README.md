@@ -10,7 +10,7 @@
 - [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers-memoquestion-link)
 - [Problem 3: Largest prime factor](#problem-3-largest-prime-factor-memoquestion-link)
 - [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product-memoquestion-link)
-- [Problem 5: Smallest multiple](#probability-calculator--memoquestion-link)
+- [Problem 5: Smallest multiple](#problem-5-smallest-multiple--memoquestion-link)
 
 
  - ## Problem 1: Multiples of 3 and 5 [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
@@ -69,7 +69,7 @@
 
 
    
-   - ## Problem 5: Smallest multiple  [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
+   - ## Problem 5: Smallest multiple  [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-5-smallest-multiple)
   ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1024429148615221258/unknown.png)
   ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1024429423182745760/unknown.png)
   ![Exercicio_5_3](https://cdn.discordapp.com/attachments/465998423145971713/1024429525792215170/unknown.png)
@@ -78,7 +78,7 @@
    
    [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Probability_Calculator.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://replit.com/@LuizSinx/boilerplate-probability-calculator-3#prob_calculator.py)
+   [:crossed_swords:Run teste](https://colab.research.google.com/drive/1F0wlfDuq2CRkA9UcW6bQicm_wjiYsugl#scrollTo=IIVYPe9Liu6_)
   
    ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1024429795771170857/unknown.png)
    
