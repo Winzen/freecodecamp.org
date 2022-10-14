@@ -10,6 +10,7 @@
 - [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers-memoquestion-link)
 - [Problem 3: Largest prime factor](#problem-3-largest-prime-factor-memoquestion-link)
 - [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product-memoquestion-link)
+- [Problem 5: Smallest multiple](#probability-calculator--memoquestion-link)
 
 
  - ## Problem 1: Multiples of 3 and 5 [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
@@ -67,12 +68,8 @@
 
 
 
-
-<!--
-- [Probability Calculator](#probability-calculator--memoquestion-link)
-<img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
    
-   - ## Probability Calculator  [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
+   - ## Problem 5: Smallest multiple  [:memo:Question Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
   ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1024429148615221258/unknown.png)
   ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1024429423182745760/unknown.png)
   ![Exercicio_5_3](https://cdn.discordapp.com/attachments/465998423145971713/1024429525792215170/unknown.png)
@@ -85,4 +82,4 @@
   
    ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1024429795771170857/unknown.png)
    
-   -->
+<img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
