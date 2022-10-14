@@ -54,10 +54,8 @@
    
    - ## Problem 4: Largest palindrome product [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product)
  
-  ![Exercicio_4_1](https://cdn.discordapp.com/attachments/465998423145971713/1023888944779251752/unknown.png)
-  ![Exercicio_4_2](https://cdn.discordapp.com/attachments/465998423145971713/1023889266922749972/unknown.png)
-  
-  ![Exercicio_4_3](https://cdn.discordapp.com/attachments/465998423145971713/1023889369754521670/unknown.png)
+  ![Exercicio_4_1](https://cdn.discordapp.com/attachments/465998423145971713/1030287996156645417/unknown.png)
+  ![Exercicio_4_2](https://cdn.discordapp.com/attachments/465998423145971713/1030288054021263380/unknown.png)
   
    **Resultado:**
    
