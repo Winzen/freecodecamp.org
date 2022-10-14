@@ -9,7 +9,7 @@
 - [Problem 1: Multiples of 3 and 5](#problem-1-multiples-of-3-and-5-memoquestion-link)
 - [Problem 2: Even Fibonacci Numbers](#problem-2-even-fibonacci-numbers-memoquestion-link)
 - [Problem 3: Largest prime factor](#problem-3-largest-prime-factor-memoquestion-link)
-- [Problem 4: Largest palindrome product](#polygon-area-calculator-memoquestion-link)
+- [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product-memoquestion-link)
 
 
  - ## Problem 1: Multiples of 3 and 5 [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
