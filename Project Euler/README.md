@@ -70,9 +70,8 @@
 
    
    - ## Problem 5: Smallest multiple  [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-5-smallest-multiple)
-  ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1024429148615221258/unknown.png)
-  ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1024429423182745760/unknown.png)
-  ![Exercicio_5_3](https://cdn.discordapp.com/attachments/465998423145971713/1024429525792215170/unknown.png)
+  ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1030532188833337354/unknown.png)
+  ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1030532300120789002/unknown.png)
   
    **Resultado:**
    
