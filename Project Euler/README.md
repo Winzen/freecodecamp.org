@@ -75,7 +75,7 @@
   
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Scientific%20Computing%20with%20Python/Probability_Calculator.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Project%20Euler/Problem%205%20Smallest%20multiple.py)
    :left_right_arrow:
    [:crossed_swords:Run teste](https://colab.research.google.com/drive/1F0wlfDuq2CRkA9UcW6bQicm_wjiYsugl#scrollTo=IIVYPe9Liu6_)
   
