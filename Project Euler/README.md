@@ -11,7 +11,7 @@
 - [Problem 3: Largest prime factor](#problem-3-largest-prime-factor-memoquestion-link)
 - [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product-memoquestion-link)
 - [Problem 5: Smallest multiple](#problem-5-smallest-multiple--memoquestion-link)
-- [Problem 6: Sum square difference](#problem-5-smallest-multiple--memoquestion-link)
+- [Problem 6: Sum square difference](#problem-6-sum-square-difference-memoquestion-link)
 
 
  - ## Problem 1: Multiples of 3 and 5 [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
@@ -83,8 +83,8 @@
    ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1030533940181729410/unknown.png)
    
   - ## Problem 6: Sum square difference [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-6-sum-square-difference)
-  ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1030532188833337354/unknown.png)
-  ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1030532300120789002/unknown.png)
+  ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1031379275380703294/unknown.png)
+  ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1031379341772333116/unknown.png)
   
    **Resultado:**
    
