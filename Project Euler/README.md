@@ -83,15 +83,15 @@
    ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1030533940181729410/unknown.png)
    
   - ## Problem 6: Sum square difference [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-6-sum-square-difference)
-  ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1031379275380703294/unknown.png)
-  ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1031379341772333116/unknown.png)
+  ![Exercicio_6_1](https://cdn.discordapp.com/attachments/465998423145971713/1031379275380703294/unknown.png)
+  ![Exercicio_6_2](https://cdn.discordapp.com/attachments/465998423145971713/1031379341772333116/unknown.png)
   
    **Resultado:**
    
    [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Project%20Euler/Problem%205%20Smallest%20multiple.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://colab.research.google.com/drive/1F0wlfDuq2CRkA9UcW6bQicm_wjiYsugl#scrollTo=IIVYPe9Liu6_)
+   [:crossed_swords:Run teste](https://colab.research.google.com/drive/1F0wlfDuq2CRkA9UcW6bQicm_wjiYsugl#scrollTo=dXy1O_v5wE3R)
   
-   ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1030533940181729410/unknown.png)
+   ![Resultado_6](https://cdn.discordapp.com/attachments/465998423145971713/1030533940181729410/unknown.png)
    
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
