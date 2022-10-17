@@ -82,7 +82,7 @@
   
    ![Resultado_5](https://cdn.discordapp.com/attachments/465998423145971713/1030533940181729410/unknown.png)
    
-      - ## Problem 6: Sum square difference  [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-5-smallest-multiple)
+  - ## Problem 6: Sum square difference [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-6-sum-square-difference)
   ![Exercicio_5_1](https://cdn.discordapp.com/attachments/465998423145971713/1030532188833337354/unknown.png)
   ![Exercicio_5_2](https://cdn.discordapp.com/attachments/465998423145971713/1030532300120789002/unknown.png)
   
