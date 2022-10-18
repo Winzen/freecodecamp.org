@@ -95,7 +95,7 @@
   
    ![Resultado_6](https://cdn.discordapp.com/attachments/465998423145971713/1031750118849925180/unknown.png)
    
-  - ## Problem 7: 10001st prime [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-6-sum-square-difference)
+  - ## Problem 7: 10001st prime [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-7-10001st-prime)
   ![Exercicio_6_1](https://cdn.discordapp.com/attachments/465998423145971713/1031379275380703294/unknown.png)
   ![Exercicio_6_2](https://cdn.discordapp.com/attachments/465998423145971713/1031379341772333116/unknown.png)
   
