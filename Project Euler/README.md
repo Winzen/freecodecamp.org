@@ -12,6 +12,7 @@
 - [Problem 4: Largest palindrome product](#problem-4-largest-palindrome-product-memoquestion-link)
 - [Problem 5: Smallest multiple](#problem-5-smallest-multiple--memoquestion-link)
 - [Problem 6: Sum square difference](#problem-6-sum-square-difference-memoquestion-link)
+- [Problem 7: 10001st prime](#problem-6-sum-square-difference-memoquestion-link)
 
 
  - ## Problem 1: Multiples of 3 and 5 [:memo:Question Link](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
