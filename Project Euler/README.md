@@ -101,7 +101,7 @@
   
    **Resultado:**
    
-   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Project%20Euler/Problem%206%20Sum%20square%20difference.py)
+   [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Project%20Euler/Problem%207%2010001st%20prime.py)
    :left_right_arrow:
    [:crossed_swords:Run teste](https://colab.research.google.com/drive/1F0wlfDuq2CRkA9UcW6bQicm_wjiYsugl#scrollTo=dXy1O_v5wE3R)
   
