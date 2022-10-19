@@ -103,7 +103,7 @@
    
    [:open_file_folder: Script](https://github.com/Winzen/freecodecamp.org/blob/main/Project%20Euler/Problem%207%2010001st%20prime.py)
    :left_right_arrow:
-   [:crossed_swords:Run teste](https://colab.research.google.com/drive/1F0wlfDuq2CRkA9UcW6bQicm_wjiYsugl#scrollTo=dXy1O_v5wE3R)
+   [:crossed_swords:Run teste](https://colab.research.google.com/drive/1F0wlfDuq2CRkA9UcW6bQicm_wjiYsugl#scrollTo=6gohLWuwC0zP)
   
    ![Resultado_7](https://cdn.discordapp.com/attachments/465998423145971713/1031750118849925180/unknown.png)
    
