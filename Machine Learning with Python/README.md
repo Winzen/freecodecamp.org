@@ -7,9 +7,7 @@
 # Exercicios
 - [Rock Paper Scissors](#rock-paper-scissors-memoquestion-link)
 - [Cat and Dog Image Classifier](#cat-and-dog-image-classifier-memoquestion-link)
-- [Medical Data Visualizer](#medical-data-visualizer-memoquestion-link)
-- [Page View Time Series Visualizer](#page-view-time-series-visualizer-memoquestion-link)
-- [Sea Level Predictor](#sea-level-predictor--memoquestion-link)
+
 <img src="https://cdn.discordapp.com/attachments/465998423145971713/1010772288926392360/unknown.png" width="1000" height="10"/>
 
  - ## Rock Paper Scissors [:memo:Question Link](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors)
@@ -43,7 +41,11 @@
   
    ![Resultado_2](https://cdn.discordapp.com/attachments/465998423145971713/1027752784449245214/unknown.png)
  <!--
- - ## Medical Data Visualizer [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
+ # Exercicios
+  - [Medical Data Visualizer](#medical-data-visualizer-memoquestion-link)
+  - [Page View Time Series Visualizer](#page-view-time-series-visualizer-memoquestion-link)
+  - [Sea Level Predictor](#sea-level-predictor--memoquestion-link)
+  - ## Medical Data Visualizer [:memo:Question Link](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
   ![Exercicio_3_1](https://cdn.discordapp.com/attachments/465998423145971713/1025960736188538900/unknown.png)
   ![Exercicio_3_2](https://cdn.discordapp.com/attachments/465998423145971713/1025960843835363388/unknown.png)
   ![Exercicio_3_3](https://cdn.discordapp.com/attachments/465998423145971713/1025961009531322378/unknown.png)
