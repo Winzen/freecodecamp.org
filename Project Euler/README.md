@@ -2,7 +2,7 @@
 
 # Porque Numpy?
 
- :brazil: Usei esses exercicios para praticar meu uso de Numpy. Então os exercicios sempre vão tentar resolver as questoes com o uso do Numpy
+ :brazil: Usei esses exercicios para praticar meu uso de Numpy e JS. Então os exercicios sempre vão tentar resolver as questoes com o uso do Numpy quando feitos em python.
  
 # Certificado
  
