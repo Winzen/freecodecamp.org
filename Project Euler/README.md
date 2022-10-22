@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.freecodecamp.org/learn/coding-interview-prep/#project-euler"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1028133295130685451/unknown.png" width="700" height="250"/></a></p>
 
-# Porque Numpy?
+# Por que Numpy? (Why Numpy?)
 
  :brazil: Usei esses exercicios para praticar meu uso de Numpy e JS. Então os exercicios sempre vão tentar resolver as questoes com o uso do Numpy quando feitos em python.
  
