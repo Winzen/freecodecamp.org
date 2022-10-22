@@ -4,6 +4,8 @@
 
  :brazil: Usei esses exercicios para praticar meu uso de Numpy e JS. Então os exercicios sempre vão tentar resolver as questoes com o uso do Numpy quando feitos em python.
  
+ :us: i'm using these challenges to practice my numpy and JS. So, when the challenge was done in the Python i'll use numpy to solve them.
+ 
 # Certificado
  
  <p align="left"><a href="https://www.freecodecamp.org/certification/fcc0b7be3c6-9783-4893-8d4a-e29361d207d3/scientific-computing-with-python-v7" target="_blank" ><img src="https://cdn.discordapp.com/attachments/465998423145971713/1028133348234760302/unknown.png" alt="drawing" width="600" height="300"/></a></p>
