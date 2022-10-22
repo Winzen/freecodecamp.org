@@ -4,7 +4,7 @@
 
  :brazil: Usei esses exercicios para praticar meu uso de Numpy e JS. Então os exercicios sempre vão tentar resolver as questoes com o uso do Numpy quando feitos em python.
  
- :us: i'm using these challenges to practice my numpy and JS. So, when the challenge was done in the Python i'll use numpy to solve them.
+ :us: I'm using these challenges to practice my numpy and JS. So, when the challenge was done in the Python i'll use numpy to solve them.
  
 # Certificado
  
